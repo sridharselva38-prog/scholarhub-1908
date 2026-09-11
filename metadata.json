@@ -1,0 +1,8 @@
+{
+  "name": "Scholarship Management System",
+  "description": "A comprehensive scholarship management system for students to find, apply, and track scholarships, and for administrators to manage schemes, verify documents, and review applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
